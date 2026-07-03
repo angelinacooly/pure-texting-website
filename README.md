@@ -13,4 +13,4 @@ Built from the provided Figma mockups. Static HTML/CSS/JS site, no build step re
 
 ## Local preview
 
-Open site/index.html directly in a browser, or serve the site folder with any static file server.
+Open site/index.html directly in a browser, or serve the site folder with any static file server. 
